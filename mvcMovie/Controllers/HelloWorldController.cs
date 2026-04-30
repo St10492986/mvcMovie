@@ -17,4 +17,6 @@ public class HelloWorldController : Controller
     {
         return "This is the Welcome action method...";
     }
+
+    // GET
 }
